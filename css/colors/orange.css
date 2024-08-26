@@ -1,0 +1,137 @@
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #ee0c0c;
+}
+.main-menu .navbar-default .navbar-nav .active a{
+	color: #ee0c0c;
+}
+.main-menu nav li a::after {
+    background: #ee0c0c;
+}
+.typer{
+	color: #ee0c0c !important;
+}
+.banner-text h2{
+	color: #ee0c0c
+}
+.book-btn a{
+	background: #ee0c0c;
+	border: 3px solid #ee0c0c;
+}
+.book-btn a:hover{
+	border: 3px solid #ee0c0c;
+	color: #ee0c0c;
+	background: #fff;
+}
+.hvr-underline-from-center::before{
+	background:#ee0c0c;
+}
+.block-title{
+	color: #ee0c0c;
+}
+.item-type-zoom .item-hover:hover::before{
+	background: rgba(231, 91, 30, 0.5);
+}
+.special-box .owl-theme .owl-controls .owl-page.active span{
+	background: #ee0c0c;
+}
+.offer-item div h3{
+	color: #ee0c0c;
+}
+.tab-menu .is-active{
+	background: #ee0c0c;
+}
+.tab-menu .slick-arrow.slick-prev{
+	background: #ee0c0c url(../../images/back.png) no-repeat center;
+	background-position: 2px 4px;
+}
+.tab-menu .slick-arrow.slick-next{
+	background: #ee0c0c url(../../images/next.png) no-repeat center;
+	background-position: 7px 4px;
+}
+
+.offer-item .offer-price{
+	border: 1px solid #ee0c0c;
+}
+.sf-team:hover .text-col{
+	background-color: #ee0c0c;
+}
+.gal-item a::after{
+	background-color: rgba(231, 91, 30, 0.75);
+}
+.overlay i:hover{
+	border: 1px solid #ee0c0c;
+	color: #ee0c0c;
+}
+.blog-btn-v a{
+	background: #ee0c0c;
+	border: 3px solid #ee0c0c;
+}
+.book-srv a{
+	background: #ee0c0c;
+	border: 3px solid #ee0c0c;
+}
+
+.panel-pricing .panel-heading{
+	background: #ee0c0c;
+}
+.panel-pricing{
+	border: 1px solid #ee0c0c;
+}
+.panel-body p strong span{
+	color: #ee0c0c;
+}
+.pricing-main .panel-footer a{
+	background: #ee0c0c;
+	border: 3px solid #ee0c0c;
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid #ee0c0c;
+}
+
+.reserve-book-btn button{
+	background: #ee0c0c;
+	border: 3px solid #ee0c0c;
+}
+.reserve-book-btn button:hover a{
+	color:#000000;
+}
+.footer-news form a{
+	background: #ee0c0c;
+}
+.footer-news form a:hover{
+	border: 2px dotted #ee0c0c;
+}
+.footer-box-a h3{
+	color: #ee0c0c;
+}
+.footer-box-b h3{
+	color: #ee0c0c;
+}
+.footer-box-c h3{
+	color: #ee0c0c;
+}
+.footer-box-d h3{
+	color: #ee0c0c;
+}
+.footer-box-c p a:hover{
+	color: #ee0c0c;
+}
+.footer-box-b ul li a:hover{
+	color: #ee0c0c;
+}
+
+.footer-box .socials-box a:hover .social-circle-border{
+	color: #ee0c0c;
+}
+
+.footer-box-c p i{
+	color: #ee0c0c;
+}
+
+.copyright-main{
+	background: #ee0c0c;
+}
+
+#color-panel a.panel-button:hover{
+	color: #ee0c0c;		
+}
